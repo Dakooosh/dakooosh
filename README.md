@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Datkaiym</h1>
 <h3 align="center">A passionate software developer from Kyrgyzstan studying 3rd year Computer Science Bachelor in Warsaw.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dakooosh&label=Profile%20views&color=0e75b6&style=flat" alt="dakooosh" /> </p>
-<img align="center" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif">
-
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="center"> <img width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif"></img></p>
 <p align="center"><img src="https://leetcard.jacoblin.cool/Dakosh?animation=true"></p>
 
 
@@ -37,31 +33,21 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakooosh&show_icons=true&locale=en&layout=compact" alt="dakooosh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dakooosh&" alt="dakooosh" /></p>
 
-<a align="center">
-  <p align="center">
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dakooosh&show_icons=true&locale=en" alt="dakooosh" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakooosh&" alt="dakooosh" /></p>
-  </p>
-</a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakooosh&show_icons=true&locale=en&layout=compact" alt="dakooosh" /></p>
-
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakooosh&show_icons=true&locale=en" alt="dakooosh" /></p>
+<p align="center">
+  <a href="https://github.com/Dakooosh/dakooosh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakooosh&show_icons=true&locale=en" alt="Datkaiym's GitHub Stats" />
+  </a>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakooosh&" alt="dakooosh" /></p>
-
-
-
-
-
-
-<a href="https://github.com/Isko21/Isko21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isko21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
   
-<a href="https://github.com/Isko21/Isko21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isko21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Iskhak's GitHub Stats" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dakooosh/dakooosh">
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakooosh&show_icons=true&locale=en&layout=compact" />
+  </a>
+</p>
+
+
+
