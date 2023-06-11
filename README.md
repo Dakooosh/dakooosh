@@ -8,7 +8,7 @@
 ## 👨‍💻 About me
 - 🔭 I’m currently working on **creating my portfolio**
 
-- 🌱 I’m currently learnig **React.js & Node.js**
+- 🌱 I’m currently learning **React.js & Node.js**
 
 - 📫 How to reach me **datkaiym2021@gmail.com**
 
