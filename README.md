@@ -15,7 +15,7 @@
 
 ## 🔗 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/datkaiym14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datkaiym14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/datkaiymm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datkaiymm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dakosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dakosh" height="30" width="40" /></a>
 </p>
 
